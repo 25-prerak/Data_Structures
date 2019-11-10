@@ -19,3 +19,5 @@ All codes related to Data Structures
 14.Binary Search Tree
 15.Heap Sort
 16.Recursive INsert in binary Search tree
+17.AVL Tree
+18.Graph using Adjacency list
