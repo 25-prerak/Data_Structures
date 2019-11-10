@@ -12,7 +12,7 @@ All codes related to Data Structures
 9. Implement a queuing program that supports three levels of priority (0- Highest, 1, and 2). An element with higher priority should be processed (removed) before the lower priority ones.  Comment about the fairness in this basic implementation.
 10.insert at the head (front), insert at the tail (end), insert in an ordered list, insert before/after a node with value v
     Delete from head (front) , delete from the tail (end), delete a node with value v,
-    traverse and display the linked list 
+    traverse and display the linked list
 11.Implement the doubly linked list with all of the above operations
 12.Implement a circular linked list with all of the above operations
 13.Represent a polynomial with two variables (e.g. x and y) using a linked list. Write functions perform the following arithmetic operations on two polynomials: add, subtract, multiply, and divide
