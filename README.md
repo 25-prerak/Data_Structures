@@ -16,3 +16,6 @@ All codes related to Data Structures
 11.Implement the doubly linked list with all of the above operations
 12.Implement a circular linked list with all of the above operations
 13.Represent a polynomial with two variables (e.g. x and y) using a linked list. Write functions perform the following arithmetic operations on two polynomials: add, subtract, multiply, and divide
+14.Binary Search Tree
+15.Heap Sort
+16.Recursive INsert in binary Search tree
